@@ -9,7 +9,7 @@
         "required": true
     },
     "PREFIX": {
-      "description": "Command prefix to use.",
+      "description": "!",
       "required": true
     },
     "GITHUBTOKEN": {
